@@ -4,4 +4,4 @@ The source repository for the GitHub Pages site at <https://randomsearch18.githu
 
 ## Contributing
 
-The pages in the website are a bunch of markdown files in the [`docs`](/docs) directory of this repostory. The GitHub documentation has [an article on testing the site locally](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+The pages in the website are a bunch of markdown files in the [`docs`](/docs) directory of this repostory. The GitHub documentation has [an article on setting up a local development environment for the website](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll) to test changes.
