@@ -1,3 +1,5 @@
 # Computing resources hub
 
-This site is coming soon, maybe.
+## Pages
+
+- [Useful links](/useful-links) - Some online resources and services that can be used on school computers
