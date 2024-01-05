@@ -2,4 +2,4 @@
 
 ## Pages
 
-- [Useful links](/useful-links) - Some online resources and services that can be used on school computers
+- [Useful links](/notebook/useful-links) - Some online resources and services that can be used on school computers
