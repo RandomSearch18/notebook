@@ -4,6 +4,7 @@
 
 - <https://repo.new/> - Create a new code repository on HitHub
 - <https://github.com/features/codespaces> - Cloud-based development environments for non-graphical Python or web development projects
+- <https://github.com/github-copilot/free_signup> - If you have access to the Github Student Developer pack, this page lets you claim your free Github Copilot access
 
 ## Online services
 
