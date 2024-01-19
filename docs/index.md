@@ -14,6 +14,10 @@
 
 - [Using PortableGit with a (portable) VSCode installation](guides/vscode/portable-git.md)
 
+### Ruby
+
+- [Fixing SSL errors from Ruby `gem install`](guides/ruby/fixing-ssl-errors.md)
+
 ## Resources
 
 ### Projects
