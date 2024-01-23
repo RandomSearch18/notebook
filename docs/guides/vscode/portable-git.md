@@ -28,8 +28,8 @@ If you have Git installed system-wide, it will be automatically detected by VSCo
 6) Save the `settings.json` file and reload VSCode (run **Developer: Reload Window** from the command pallete)
 7) Open the source control sidebar by clicking on the icon in the activity bar or running **View: Show Source Control** from the command pallete
 8) Verify that Git is available by checking the text in the source control sidebar:
-    - "No source control providers registered" means that VSCode is still starting up
-    - "Scanning folder for Git repositories" means that VSCode is still starting up
-    - If you see a "download Git for Windows" button, VSCode has not found your Git installation. Double-check the provided file path.
-    - If you see "open folder" and "clone repository" button, Git is installed and avilable to VSCode 🎉
-    - If you see a "commit" button, Git is available to VSCode, and you already have a Git repository open 🎉
+    * "No source control providers registered" means that VSCode is still starting up
+    * "Scanning folder for Git repositories" means that VSCode is still starting up
+    * If you see a "download Git for Windows" button, VSCode has not found your Git installation. Double-check the provided file path.
+    * If you see "open folder" and "clone repository" button, Git is installed and avilable to VSCode 🎉
+    * If you see a "commit" button, Git is available to VSCode, and you already have a Git repository open 🎉
