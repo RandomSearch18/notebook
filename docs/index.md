@@ -8,6 +8,7 @@
 
 ### Git
 
+- [Install and set up PortableGit](guides/git/set-up-git.md)
 - [Fix SSL certificate errors when using Git](guides/git/disable-ssl.md)
 
 ### VSCode
