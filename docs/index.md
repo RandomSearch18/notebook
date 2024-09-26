@@ -9,6 +9,7 @@
 ### Git
 
 - [Install and set up PortableGit](guides/git/set-up-git.md)
+- [Install git locally with WinGet](guides/git/install-git-winget.md)
 - [Fix SSL certificate errors when using Git](guides/git/disable-ssl.md)
 
 ### VSCode
