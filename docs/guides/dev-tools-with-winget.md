@@ -49,3 +49,7 @@ code
 ```ps1
 winget install -e --id Git.Git --source winget
 ```
+
+## Find other programs to install with WinGet
+
+<https://winget.run/> is a useful website for discovering WinGet packages. Its search is a bit naff, but you can use Google with `site:winget.run` as an alternative, or just include "winget" as a keyword in your Google search.
