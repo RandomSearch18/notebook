@@ -20,12 +20,13 @@ WinGet will throw a certificate error on the school network by default, but this
 
 ### Advantages of installing with WinGet
 
-- OS integration as standard, e.g. adding to PATH, registering as a file handler, etc.
+- Automatically does as much OS integration as possible, e.g. adding executables to PATH, registering as a file handler
 - TODO: Add more
 
-### Disadvantages
+### Disadvantages of installing with WinGet
 
-- Programs have to be installed (and configured) for every computer that you want to use.
+- Programs have to be installed (and configured) separately for every computer that you want to use.
+- Not all programs are available on WinGet (although lots are!)
 
 ## Guide
 
