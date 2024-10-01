@@ -6,6 +6,10 @@
 
 ## Guides
 
+### General
+
+- [Install dev tools with WinGet](guides/dev-tools-with-winget.md)
+
 ### Git
 
 - [Install and set up PortableGit](guides/git/set-up-git.md)
