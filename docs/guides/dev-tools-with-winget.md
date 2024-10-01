@@ -18,6 +18,8 @@ After installing a command-line program, ensure you open a new PowerShell window
 
 WinGet will throw a certificate error on the school network by default, but this can be worked around by adding the `--source winget` argument to any `winget install` command, as in the examples below.
 
+WinGet will usually download the non-privileged installer by default, but if it doesn't then you can use the `--scope user` argument to force it.
+
 ### Advantages of installing with WinGet
 
 - Automatically does as much OS integration as possible, e.g. adding executables to PATH, registering as a file handler
