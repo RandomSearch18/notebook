@@ -12,9 +12,11 @@ WinGet is a package manager that lets you install a selection of apps locally on
 
 Installing programs locally is especially useful when you'll be using the same computer often, as it takes a bit of time to set up, but is currently the best way to use tools like VSCode on school computers. In my opinion, it provides a superior experience to GitHub Codespaces, and doesn't suffer from the bugginess of VSCode installed to OneDrive.
 
-### Note
+### Notes
 
 After installing a command-line program, ensure you open a new PowerShell window, so that the updates to your `PATH` environment variable are picked up. Logging out and back in again will also do the trick.
+
+WinGet will throw a certificate error on the school network by default, but this can be worked around by adding the `--source winget` argument to any `winget install` command, as in the examples below.
 
 ### Advantages of installing with WinGet
 
