@@ -6,6 +6,8 @@
 >
 > &mdash; Mish 2024
 
+👉 **[Skip to the guide](#guide)**
+
 ## Introduction
 
 WinGet is a package manager that lets you install a selection of apps locally on your current computer. Consider it as a tool to automatically download and run non-elevated installers, or as a more reliable alternative to the Microsoft Store.
