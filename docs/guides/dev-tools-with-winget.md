@@ -38,6 +38,8 @@ You use Winget through its command-line interface. Start by opening a PowerShell
 
 ### Install VSCode locally
 
+Run the winget command below to install VSCode (Visual Studio Code):
+
 ```ps1
 winget install -e --id Microsoft.VisualStudioCode --source winget
 ```
