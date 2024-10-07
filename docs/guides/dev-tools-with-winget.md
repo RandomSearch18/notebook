@@ -42,6 +42,12 @@ You use Winget through its command-line interface. Start by opening a PowerShell
 winget install -e --id Microsoft.VisualStudioCode --source winget
 ```
 
+Alternatively, you can install the Insiders version of VSCode:
+
+```ps1
+winget install -e --id Microsoft.VisualStudioCode.Insiders --source winget
+```
+
 Run it by opening a _new_ PowerShell window, and running the command below
 
 ```ps1
